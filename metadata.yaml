@@ -1,0 +1,50 @@
+_repo: Correspondance-de-Voltaire-avec-le-roi-de-Prusse_25734
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Pompery, Edouard de
+    birthdate: 1812
+    deathdate: 1895
+    gutenberg_agent_id: '31544'
+    url: http://www.gutenberg.org/2009/agents/31544
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Voltaire
+    aliases:
+    - Arouet, François Marie
+    - Arouet, Francois Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Voltaire
+    - http://en.wikipedia.org/wiki/Voltaire
+  - agent_name: Frederick II, King of Prussia
+    aliases:
+    - Prussia, Frederick II King of
+    - Friedrich II, der Grosse, King of Prussia
+    birthdate: 1712
+    deathdate: 1786
+    gutenberg_agent_id: '31542'
+    url: http://www.gutenberg.org/2009/agents/31542
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_II_of_Prussia
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2008-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25734'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcc 'DD'
+- !lcsh 'French literature'
+title: Correspondance de Voltaire avec le roi de Prusse
+url: http://www.gutenberg.org/ebooks/25734
