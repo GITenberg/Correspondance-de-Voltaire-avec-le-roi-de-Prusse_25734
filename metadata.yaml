@@ -33,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31542
     wikipedia: http://en.wikipedia.org/wiki/Frederick_II_of_Prussia
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25734#Correspondance-de-Voltaire-avec-le-roi-de-Prusse
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2008-06-09'
 gutenberg_type: Text
